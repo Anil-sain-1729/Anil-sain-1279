@@ -5,7 +5,7 @@
 <p>
   👨🏼‍🎓 Currently pursuing <strong>Computer Science and Engineering</strong> with a specialization in
   <strong>Data Science</strong> at <strong>UTD-CSVTU, Bhilai</strong>. <br>
-  Passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and
+  Passionate about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and
   <strong>Competitive Coding</strong>. <br>
   👨🏼‍💻 Member of <strong>Programmers Paradise</strong> (Technical Society) and
   Founding Member of <strong>Nextronix Robotics Club</strong>.
