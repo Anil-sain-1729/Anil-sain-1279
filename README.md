@@ -7,8 +7,7 @@
   <strong>Data Science</strong> at <strong>UTD-CSVTU, Bhilai</strong>. <br>
   Passionate about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and
   <strong>Competitive Coding</strong>. <br>
-  👨🏼‍💻 Member of <strong>Programmers Paradise</strong> (Technical Society) and
-  Founding Member of <strong>Nextronix Robotics Club</strong>.
+  
 </p>
 
 <h2>🛠️ My Armoury</h2>
