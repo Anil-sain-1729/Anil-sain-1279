@@ -44,18 +44,6 @@
 ---
 
 
-}
-
-
-<hr/>
-
-<h2 align="center">✂️ Languages • Frameworks • Tools ✂️</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,javascript,github,python,mongodb&perline=3" alt="skills" />  
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git,r&perline=3" alt="skills2" />
-</div>
-
 <hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
