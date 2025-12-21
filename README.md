@@ -16,10 +16,93 @@
 
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Math Operation UI</title>
 
-          ➡️ 1**3 + 12**3 
- 1729 ➡️↕️                ↔️ 🕐🕖🕑🕘
-          ➡️ 9**3 + 10**3
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#fff;
+}
+
+.container{
+    width:500px;
+    margin:50px auto;
+}
+
+.row{
+    display:flex;
+    align-items:center;
+    margin:15px 0;
+}
+
+.number{
+    font-size:18px;
+    margin-right:10px;
+}
+
+.arrow{
+    background:#3b82f6;
+    color:#fff;
+    padding:5px 8px;
+    border-radius:4px;
+    font-size:14px;
+    margin-right:10px;
+}
+
+.expression{
+    font-size:18px;
+}
+
+.icons{
+    margin-left:20px;
+}
+
+.icon{
+    display:inline-block;
+    width:20px;
+    height:20px;
+    border:1px solid #999;
+    border-radius:50%;
+    text-align:center;
+    line-height:18px;
+    font-size:12px;
+    margin-left:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- First Row -->
+    <div class="row">
+        <div class="number">1729</div>
+        <div class="arrow">↔</div>
+        <div class="arrow">⇅</div>
+        <div class="expression">1**3 + 12**3</div>
+        <div class="icons">
+            <div class="icon">⏱</div>
+            <div class="icon">⏱</div>
+            <div class="icon">⏱</div>
+            <div class="icon">⏱</div>
+        </div>
+    </div>
+
+    <!-- Second Row -->
+    <div class="row" style="margin-left:40px;">
+        <div class="arrow">➜</div>
+        <div class="expression">9**3 + 10**3</div>
+    </div>
+
+</div>
+
+</body>
+</html>
 
 
 
