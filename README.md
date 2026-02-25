@@ -64,7 +64,7 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anil-sain-1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anil_sain_1729 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anil-sain-1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anil Sain GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-sain-17297&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=Anil-sain-1729&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
