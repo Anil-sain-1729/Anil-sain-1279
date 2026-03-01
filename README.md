@@ -17,9 +17,7 @@
 ---
       |                                     
 
-|--------------------|-------------------|<br>
-| **GitHub           ** | [Anil nAi         ](https://github.com/Anil-sain-1279)   |<br>
-| **Email            ** | asain4773@gmail.com                             |
+        |
                                                      
 
 ## 🚀 About Me    
