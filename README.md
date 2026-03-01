@@ -15,22 +15,16 @@
 
 ---
 
-| Language/Tool      | Mastery (%) | Progress               |
-|--------------------|-------------|------------------------|
-| **C**              | 75          | ████████████████░░░░░  |
-| **C++**            | 68          | ██████████████░░░░░░░  |
-| **Python**         | 90          | ██████████████████░░░  |
-| **Numpy**          | 70          | ██████████████░░░░░░░  |
-| **Pandas**         | 65          | █████████████░░░░░░░░  |
-| **Matplotlib**     | 52          | ██████████░░░░░░░░░░░  |
-| **R**              | 57          | ███████████░░░░░░░░░░  |
-| **HTML5**          | 55          | ██████████░░░░░░░░░░░  |
-| **CSS3**           | 22          | █████░░░░░░░░░░░░░░░░  |
-| **JavaScript**     | 10          | ██░░░░░░░░░░░░░░░░░░░  |
+|        *Anil nAi*  | 29/02/2004  |
+|--------------------|-------------|
+| **Location**       | India       |
+| **GitHub**         | [Anil nAi](https://github.com/Anil-sain-1279)    |
+| **Email**          | asain4773@gmail.com           |
+
 
  **Real Name**   => Anil nAi                                      <br>
  **Location**    => India                                         <br>
- **Email**       => asain4773@gmail.com                           <br>
+ ****       => asain4773@gmail.com                           <br>
  **GitHub**      => [Anil nAi](https://github.com/Anil-sain-1279) <br>
 
 
