@@ -21,7 +21,7 @@
 
 | **Email**       | asain4773@gmail.com                     |                                     
                                                      
-</p>
+
 ## 🚀 About Me    
 🎓 **CSVTU Bhilai | 2nd Year Student**  
 
