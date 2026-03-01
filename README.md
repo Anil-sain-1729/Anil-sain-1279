@@ -22,12 +22,6 @@
 | **Email**          | asain4773@gmail.com           |
 
 
- **Real Name**   => Anil nAi                                      <br>
- **Location**    => India                                         <br>
- ****       => asain4773@gmail.com                           <br>
- **GitHub**      => [Anil nAi](https://github.com/Anil-sain-1279) <br>
-
-
 ---
 
 ## 🚀 About Me    
