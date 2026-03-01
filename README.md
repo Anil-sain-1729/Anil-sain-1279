@@ -20,6 +20,7 @@
 | **Location**       | India       |
 | **GitHub**         | [Anil nAi](https://github.com/Anil-sain-1279)    |
 | **Email**          | asain4773@gmail.com           |
+| **CodeChef**       | [CodeChef](https://www.codechef.com/users/anil_sain_1729)           |
 
 
 ---
