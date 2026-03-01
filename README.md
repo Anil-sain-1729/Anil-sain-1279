@@ -15,12 +15,11 @@
 
 ---
 
-<pre>
-| Real Name   | Anil nAi                                      |
-| Location    | India                                         |
-| Email       | asain4773@gmail.com                           |
-</pre>
-| GitHub      | [Anil nAi](https://github.com/Anil-sain-1279) | 
+
+| **Real Name**   | Anil nAi                                      |
+| **Location**    | India                                         |
+| **Email**       | asain4773@gmail.com                           |
+| **GitHub**      | [Anil nAi](https://github.com/Anil-sain-1279) | 
 
 
 ---
