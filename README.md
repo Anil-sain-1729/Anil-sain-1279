@@ -15,10 +15,6 @@
 
 
 ---
-      |                                     
-
-        |
-                                                     
 
 ## 🚀 About Me    
 🎓 **CSVTU Bhilai | 2nd Year Student**  
