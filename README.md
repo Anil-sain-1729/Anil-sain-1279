@@ -20,10 +20,9 @@
 | **Location**       | India       |
 | **GitHub**         | [Anil nAi](https://github.com/Anil-sain-1279)    |
 | **Email**          | asain4773@gmail.com           |
-| **CodeChef**       | [CodeChef](https://www.codechef.com/users/anil_sain_1729)           |
 | **Chess**          | [Chess](https://www.chess.com/member/anilsain12)           |
 | **Codeforces**     | [Codeforces](https://codeforces.com/profile/anilsain1729)           |
-
+| **CodeChef**       | [CodeChef](https://www.codechef.com/users/anil_sain_1729)           |
 
 ---
 
