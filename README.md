@@ -16,9 +16,9 @@
 ---
 
 <pre>
-| Real Name   | Anil nAi                                      |                                               
-| Location    | India                                         |                                                                                  
-| Email       | asain4773@gmail.com                           |                                                                   
+| Real Name   | Anil nAi                                      |
+| Location    | India                                         |
+| Email       | asain4773@gmail.com                           |
 </pre>
 | GitHub      | [Anil nAi](https://github.com/Anil-sain-1279) | 
 
