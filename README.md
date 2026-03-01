@@ -18,8 +18,8 @@
 
 
 | **GitHub**      | [Anil nAi](https://github.com/Anil-sain-1279) | 
-<br>
-| **Email**       | asain4773@gmail.com            |                                     
+
+| **Email**       | asain4773@gmail.com                     |                                     
                                                      
 </p>
 ## 🚀 About Me    
