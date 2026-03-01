@@ -15,10 +15,11 @@
 
 
 ---
+      |                                     
 
-
-| **GitHub**      | [Anil nAi       ](https://github.com/Anil-sain-1279) | 
-| **Email  **       | asain4773@gmail.com                     |                                     
+|--------------------|-------------------------------------------------|
+| **GitHub**         | [Anil nAi](https://github.com/Anil-sain-1279)   |
+| **Email**          | asain4773@gmail.com                             |
                                                      
 
 ## 🚀 About Me    
