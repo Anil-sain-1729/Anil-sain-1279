@@ -57,18 +57,18 @@
 
 ## 🎒 Inventory ##
 
-| Language/Tool      | Mastery (%) | Progress               |
-|--------------------|-------------|------------------------|
-| **C**              | 75          | ███████████████░░░░░░  |
-| **C++**            | 68          | ██████████████░░░░░░░  |
-| **Python**         | 90          | ██████████████████░░░  |
-| **Numpy**          | 70          | ████████████████░░░░░  |
-| **Pandas**         | 65          | ██████████████░░░░░░░  |
-| **Matplotlib**     | 52          | ████████████░░░░░░░░░  |
-| **R**              | 57          | █████████████░░░░░░░░  |
-| **HTML**           | 55          | ████████████░░░░░░░░░  |
-| **CSS3**           | 22          | █████░░░░░░░░░░░░░░░░  |
-| **Javascript**     | 10          | ███░░░░░░░░░░░░░░░░░░  |
+| Language/Tool      | Mastery (%) | Progress               |       Mastery (%)                                     |
+|--------------------|-------------|------------------------|-------------------------------------------------------|
+| **C**              | 75          | ███████████████░░░░░░  |![C](https://img.shields.io/badge/C-75-blue)|
+| **C++**            | 68          | ██████████████░░░░░░░  |![C++](https://img.shields.io/badge/C++-68-blue)|
+| **Python**         | 90          | ██████████████████░░░  |![Python](https://img.shields.io/badge/PYTHON-90-yellow)|
+| **Numpy**          | 70          | ████████████████░░░░░  |![Numpy](https://img.shields.io/badge/NUMPY-70-indigo)|
+| **Pandas**         | 65          | ██████████████░░░░░░░  |![Pandas](https://img.shields.io/badge/PANDAS-70-white)|
+| **Matplotlib**     | 52          | ████████████░░░░░░░░░  |![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-70-pink)|
+| **R**              | 57          | █████████████░░░░░░░░  |![R](https://img.shields.io/badge/R-70-blue)|
+| **HTML**           | 55          | ████████████░░░░░░░░░  |![HTML](https://img.shields.io/badge/HTML-70-orange)|
+| **CSS3**           | 22          | █████░░░░░░░░░░░░░░░░  |![CSS3](https://img.shields.io/badge/CSS3-70-purple)|
+| **Javascript**     | 10          | ███░░░░░░░░░░░░░░░░░░  |![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-70-yellow)|
 
 ### 📊 My GitHub Stats
 
