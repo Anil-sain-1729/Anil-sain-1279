@@ -62,8 +62,8 @@
 |### 💻 Programming Languages                                                                                       |
 | **C**              |![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)| ███████████████░░░░░░  |![C](https://img.shields.io/badge/C-75-blue)|
 | **C++**            |![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)| ██████████████░░░░░░░  |![C++](https://img.shields.io/badge/C++-68-blue)|
-| **Python**         |![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| ██████████████████░░░  |![Python](https://img.shields.io/badge/PYTHON-90-yellow)|
 | **R**              |![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)| █████████████░░░░░░░░  |![R](https://img.shields.io/badge/R-57-blue)|
+| **Python**         |![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)| ██████████████████░░░  |![Python](https://img.shields.io/badge/PYTHON-90-yellow)|
 | **Numpy**          |<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>| ████████████████░░░░░  |![Numpy](https://img.shields.io/badge/NUMPY-70-indigo)|
 | **Pandas**         |<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>| ██████████████░░░░░░░  |![Pandas](https://img.shields.io/badge/PANDAS-65-white)|
 | **Matplotlib**     |<img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>| ████████████░░░░░░░░░  |![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-52-pink)|
