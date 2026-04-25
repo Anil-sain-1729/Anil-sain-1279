@@ -57,18 +57,18 @@
 
 ## 🎒 Inventory ##
 
-| Language/Tool      | | Progress               | |             Mastery (%)                                  |
-|--------------------|-|------------------------|-|---------------------------------------------------------|
-| **C**              | | ████████████████░░░░░  | |![C](https://img.shields.io/badge/C-75-brightgreen) |
-| **C++**            | | ██████████████░░░░░░░  | |![C++](https://img.shields.io/badge/C++-68-brightgreen) |
-| **Python**         | | ██████████████████░░░  | |![Python](https://img.shields.io/badge/Python-90-brightgreen) |
-| **Numpy**          | | ██████████████░░░░░░░  | |![Numpy](https://img.shields.io/badge/Numpy-70-brightgreen) |
-| **Pandas**         | | █████████████░░░░░░░░  | |![Pandas](https://img.shields.io/badge/Pandas-65-brightgreen) |
-| **Matplotlib**     | | ██████████░░░░░░░░░░░  | |![Matplotlib](https://img.shields.io/badge/Matplotlib-52-brightgreen) |
-| **R**              | | ███████████░░░░░░░░░░  | |![R](https://img.shields.io/badge/R-57-brightgreen) |
-| **HTML5**          | | ██████████░░░░░░░░░░░  | |![HTML](https://img.shields.io/badge/HTML-55-brightgreen) |
-| **CSS3**           | | █████░░░░░░░░░░░░░░░░  | |![CSS3](https://img.shields.io/badge/CSS3-22-brightgreen) |
-| **JavaScript**     | | ██░░░░░░░░░░░░░░░░░░░  | |![JavaScript](https://img.shields.io/badge/JavaScript-10-brightgreen) |
+| Language/Tool      | | Progress               | |             Mastery (%)                                  |                               |
+|--------------------|-|------------------------|-|----------------------------------------------------------|-------------------------------|
+| **C**              | | ████████████████░░░░░  | |![C](https://img.shields.io/badge/C-75-brightgreen) |![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)|
+| **C++**            | | ██████████████░░░░░░░  | |![C++](https://img.shields.io/badge/C++-68-brightgreen) |![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| **Python**         | | ██████████████████░░░  | |![Python](https://img.shields.io/badge/Python-90-brightgreen) |![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
+| **Numpy**          | | ██████████████░░░░░░░  | |![Numpy](https://img.shields.io/badge/Numpy-70-brightgreen) |<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>|
+| **Pandas**         | | █████████████░░░░░░░░  | |![Pandas](https://img.shields.io/badge/Pandas-65-brightgreen) |<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>|
+| **Matplotlib**     | | ██████████░░░░░░░░░░░  | |![Matplotlib](https://img.shields.io/badge/Matplotlib-52-brightgreen) |<img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>|
+| **R**              | | ███████████░░░░░░░░░░  | |![R](https://img.shields.io/badge/R-57-brightgreen) |![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)|
+| **HTML5**          | | ██████████░░░░░░░░░░░  | |![HTML](https://img.shields.io/badge/HTML-55-brightgreen) |![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
+| **CSS3**           | | █████░░░░░░░░░░░░░░░░  | |![CSS3](https://img.shields.io/badge/CSS3-22-brightgreen) |![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|
+| **JavaScript**     | | ██░░░░░░░░░░░░░░░░░░░  | |![JavaScript](https://img.shields.io/badge/JavaScript-10-brightgreen) |![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|
 
 ### 📊 My GitHub Stats
 
