@@ -59,7 +59,7 @@
 
 | Language/Tool      | Logo        | Progress               |       Mastery (%)                                     |
 |--------------------|-------------|------------------------|-------------------------------------------------------|
-|### 💻 Programming Languages                                                                                       |
+|💻 Programming Languages                                                                                       |
 | **C**              |![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)| ███████████████░░░░░░  |![C](https://img.shields.io/badge/C-75-blue)|
 | **C++**            |![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)| ██████████████░░░░░░░  |![C++](https://img.shields.io/badge/C++-68-blue)|
 | **R**              |![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)| █████████████░░░░░░░░  |![R](https://img.shields.io/badge/R-57-blue)|
@@ -67,6 +67,7 @@
 | **Numpy**          |<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>| ████████████████░░░░░  |![Numpy](https://img.shields.io/badge/NUMPY-70-indigo)|
 | **Pandas**         |<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>| ██████████████░░░░░░░  |![Pandas](https://img.shields.io/badge/PANDAS-65-white)|
 | **Matplotlib**     |<img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>| ████████████░░░░░░░░░  |![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-52-pink)|
+|🌐 Web Development            |
 | **HTML**           |![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)| ████████████░░░░░░░░░  |![HTML](https://img.shields.io/badge/HTML-55-orange)|
 | **CSS3**           |![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)| █████░░░░░░░░░░░░░░░░  |![CSS3](https://img.shields.io/badge/CSS3-22-purple)|
 | **Javascript**     |![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)| ███░░░░░░░░░░░░░░░░░░  |![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-10-yellow)|
