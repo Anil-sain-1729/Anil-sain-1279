@@ -57,18 +57,18 @@
 
 ## 🎒 Inventory ##
 
-| Language/Tool      | Mastery (%) | Progress               |
-|--------------------|-------------|------------------------|
-| **C**              | 75          | ████████████████░░░░░  |
-| **C++**            | 68          | ██████████████░░░░░░░  |
-| **Python**         | 90          | ██████████████████░░░  |
-| **Numpy**          | 70          | ██████████████░░░░░░░  |
-| **Pandas**         | 65          | █████████████░░░░░░░░  |
-| **Matplotlib**     | 52          | ██████████░░░░░░░░░░░  |
-| **R**              | 57          | ███████████░░░░░░░░░░  |
-| **HTML5**          | 55          | ██████████░░░░░░░░░░░  |
-| **CSS3**           | 22          | █████░░░░░░░░░░░░░░░░  |
-| **JavaScript**     | 10          | ██░░░░░░░░░░░░░░░░░░░  |
+| Language/Tool      | Mastery (%) | Progress               |                                                          |
+|--------------------|-------------|------------------------|----------------------------------------------------------|
+| **C**              | 75          | ████████████████░░░░░  |![C](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **C++**            | 68          | ██████████████░░░░░░░  |![C++](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **Python**         | 90          | ██████████████████░░░  |![Python](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **Numpy**          | 70          | ██████████████░░░░░░░  |![Numpy](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **Pandas**         | 65          | █████████████░░░░░░░░  |![Pandas](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **Matplotlib**     | 52          | ██████████░░░░░░░░░░░  |![Matplotlib](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **R**              | 57          | ███████████░░░░░░░░░░  |![R](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **HTML5**          | 55          | ██████████░░░░░░░░░░░  |![HTML](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **CSS3**           | 22          | █████░░░░░░░░░░░░░░░░  |![CSS3](https://img.shields.io/badge/Commits-75-brightgreen) |
+| **JavaScript**     | 10          | ██░░░░░░░░░░░░░░░░░░░  |![JavaScript](https://img.shields.io/badge/Commits-75-brightgreen) |
 
 ### 📊 My GitHub Stats
 
