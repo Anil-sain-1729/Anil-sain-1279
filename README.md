@@ -70,3 +70,12 @@
 
 
 
+<p align="center">
+
+<a href="https://anil-sain-1729.github.io/Anil-sain-1279/">
+
+<img src="https://img.shields.io/badge/🎮_PLAY_TIC_TAC_TOE-CLICK_HERE-28a745?style=for-the-badge">
+
+</a>
+
+</p>
