@@ -81,37 +81,27 @@
 # 🎮 Play My Tic Tac Toe
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🎮_TIC_TAC_TOE-PLAY_NOW-00F7FF?style=for-the-badge&labelColor=111827">
-
-</p>
-
-<p align="center">
-  <b>❌⭕ Human vs Human &nbsp; | &nbsp; 🤖 Human vs Robot</b>
-</p>
-
-<p align="center">
   <a href="https://anil-sain-1729.github.io/Anil-sain-1279/" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_PLAY_GAME-CLICK_HERE-28A745?style=for-the-badge&logo=gamepad&logoColor=white">
+    <img 
+      src="game-preview.png"
+      alt="Tic Tac Toe Game Preview"
+      width="850"
+    >
   </a>
 </p>
 
 <p align="center">
+  <a href="https://anil-sain-1729.github.io/Anil-sain-1279/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_PLAY_GAME-CLICK_HERE-28A745?style=for-the-badge">
+  </a>
+</p>
 
-🎯 <b>Features</b>
-
-<br><br>
-
-❌⭕ Choose X / O &nbsp;&nbsp;
-🤖 Robot AI &nbsp;&nbsp;
-🧠 Easy / Medium / Hard
-
-<br>
-
-🏆 Winner Detection &nbsp;&nbsp;
-🔴 Winning Line &nbsp;&nbsp;
-📊 Score System
-
+<p align="center">
+  ❌ <b>Human vs Human</b>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  🤖 <b>Human vs Robot</b>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  🧠 <b>Easy / Medium / Hard</b>
 </p>
 
 ---
