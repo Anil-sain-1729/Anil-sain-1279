@@ -70,27 +70,3 @@
 
 
 
-
-## 🎮 My Game
-
-<p align="center">
-
-<a href="https://vaibhavdesai.github.io/TicTacToe/" target="_blank">
-
-<img src="https://img.shields.io/badge/🎮_PLAY_TIC_TAC_TOE-CLICK_HERE-00F7FF?style=for-the-badge&logo=gamepad&logoColor=white">
-
-</a>
-
-</p>
-
-<p align="center">
-  ❌⭕ <b>Play Tic Tac Toe Online</b> 🤖
-</p>
-
-<p align="center">
-  Human vs Human • Computer • AI
-</p>
-
-
-
-
