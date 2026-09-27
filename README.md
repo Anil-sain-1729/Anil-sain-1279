@@ -1,4 +1,3 @@
-<img width="272" height="431" alt="image" src="https://github.com/user-attachments/assets/3262e2fc-d21a-42e9-a67d-96a76137651a" /><!--🚀 Animated Helader -->
 
 <h1 align="center">🚀 ANIL SAIN 1729 | Tech Enthusiast Coding</h1>
  
