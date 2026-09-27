@@ -26,6 +26,16 @@
 
 ---
 
+|        *Game name*  | Game link  |
+|--------------------|-------------|
+| **Snake**       | https://anil-sain-1729.github.io/Snake_game/      |
+| **Tic Tac Ton**         | https://anil-sain-1729.github.io/tic-tac-toe-game/    |
+| **Tower of Hanoi**          | https://anil-sain-1729.github.io/tower-of-hanoi-fullstack/         |
+
+---
+
+
+
 ## 🚀 About Me    
 🎓 **CSVTU Bhilai | 2nd Year Student**  
 
