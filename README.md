@@ -27,7 +27,8 @@
 
 |        *MY BOOK *  | My book link  |
 |--------------------|-------------|
-| **1. Digriyon Se Aage** |     |
+| **1. Digriyon Se Aage** |<img width="272" height="431" alt="Screenshot 2026-09-27 163944" src="https://github.com/user-attachments/assets/91d99bd4-ab82-48cd-bd5f-52a6ee70977e" />
+|
 | **Flipkart**       | https://dl.flipkart.com/s/xXE5WjNNNN      |
 | **Amazon**         | https://link.amazon/B08QunIXp    |
 | **Play google**         | https://play.google.com/store/books/details?id=7hYPEgAAQBAJ    |
