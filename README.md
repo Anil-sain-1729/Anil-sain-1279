@@ -1,4 +1,3 @@
-
 <h1 align="center">🚀 ANIL SAIN 1729 | Tech Enthusiast Coding</h1>
  
 <p align="center">
@@ -28,8 +27,7 @@
 
 |        *MY BOOK *  | My book link  |
 |--------------------|-------------|
-| **1. Digriyon Se Aage** |   
-       |
+| **1. Digriyon Se Aage** |     |
 | **Flipkart**       | https://dl.flipkart.com/s/xXE5WjNNNN      |
 | **Amazon**         | https://link.amazon/B08QunIXp    |
 | **Play google**         | https://play.google.com/store/books/details?id=7hYPEgAAQBAJ    |
