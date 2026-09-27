@@ -26,6 +26,18 @@
 
 ---
 
+
+|        *MY BOOK *  | My book link  |
+|--------------------|-------------|
+| **1. Digriyon Se Aage** |           |
+| **Flipkart**       | https://dl.flipkart.com/s/xXE5WjNNNN      |
+| **Amazon**         | https://link.amazon/B08QunIXp    |
+| **Play google**         | https://play.google.com/store/books/details?id=7hYPEgAAQBAJ    |
+
+---
+
+
+
 |        *Game name*  | Game link  |
 |--------------------|-------------|
 | **Snake**       | https://anil-sain-1729.github.io/Snake_game/      |
