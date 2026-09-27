@@ -47,7 +47,7 @@
 
 
 ## 🚀 About Me    
-🎓 **CSVTU Bhilai | 2nd Year Student**  
+🎓 **CSVTU Bhilai | 3nd Year Student**  
 
 
 
