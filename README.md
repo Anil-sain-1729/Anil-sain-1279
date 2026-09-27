@@ -1,4 +1,4 @@
-<!--🚀 Animated Helader -->
+<img width="272" height="431" alt="image" src="https://github.com/user-attachments/assets/3262e2fc-d21a-42e9-a67d-96a76137651a" /><!--🚀 Animated Helader -->
 
 <h1 align="center">🚀 ANIL SAIN 1729 | Tech Enthusiast Coding</h1>
  
@@ -29,7 +29,8 @@
 
 |        *MY BOOK *  | My book link  |
 |--------------------|-------------|
-| **1. Digriyon Se Aage** |           |
+| **1. Digriyon Se Aage** |    <img width="272" height="431" alt="image" src="https://github.com/user-attachments/assets/4b9da719-4bf3-4a29-ba73-1d135c543685" />
+       |
 | **Flipkart**       | https://dl.flipkart.com/s/xXE5WjNNNN      |
 | **Amazon**         | https://link.amazon/B08QunIXp    |
 | **Play google**         | https://play.google.com/store/books/details?id=7hYPEgAAQBAJ    |
