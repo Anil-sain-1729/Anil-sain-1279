@@ -91,8 +91,10 @@
 
 <br>
 
+<!--
 
-🔭 I’m currently working on Data Science Mentorship Program
-🌱 I’m currently learning SQL
-💬 Ask me about Machine Learning, Deep Learning and NLP
-😄 Happy Learning
+- 🔭 I’m currently working on Data Science Mentorship Program
+- 🌱 I’m currently learning SQL
+- 💬 Ask me about Machine Learning, Deep Learning and NLP
+- 😄 Happy Learning
+-->
