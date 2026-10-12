@@ -91,6 +91,10 @@
 
 
 
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Anil-sain-1279)
 
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anil-sain-1279)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-sain-1279)
 
 
