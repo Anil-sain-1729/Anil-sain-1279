@@ -85,7 +85,13 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=Anil-sain-1729&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
- ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-sain-1729)
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Anil-sain-1729)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anil-sain-1729)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-sain-1729)
+
+
 </div>
 
 <br>
