@@ -1,5 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ANIL SAIN 1729 | Tech Enthusiast Coding🚀</h1>
-<h1 align="center">🚀 ANIL SAIN 1729 | Tech Enthusiast Coding</h1>
+<h1 align="center">🚀 ANIL SAIN 1729 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| Tech Enthusiast Coding</h1>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%E2%9C%A8+Innovating+with+Code+%7C+Exploring+AI+%7C+Robotics+%E2%9C%A8" />
